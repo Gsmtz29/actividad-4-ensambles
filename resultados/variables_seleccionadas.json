@@ -1,0 +1,17 @@
+[
+  "mean radius",
+  "mean perimeter",
+  "mean area",
+  "mean compactness",
+  "mean concavity",
+  "mean concave points",
+  "radius error",
+  "perimeter error",
+  "area error",
+  "worst radius",
+  "worst perimeter",
+  "worst area",
+  "worst compactness",
+  "worst concavity",
+  "worst concave points"
+]
